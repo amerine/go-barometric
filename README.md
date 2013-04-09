@@ -1,7 +1,7 @@
 # barometric-go
 =====
 
-The [Barometric Function](http://en.wikipedia.org/wiki/Barometric_formula), in Go
+The [Barometric Function](http://en.wikipedia.org/wiki/Barometric_formula), in Go ported from [airjs](https://github.com/broofa/airjs) by Robert Kieffer
 
 ## Importing
 
