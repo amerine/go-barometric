@@ -1,19 +1,12 @@
-# air.js
+# barometric-go
 =====
 
-The [Barometric Function](http://en.wikipedia.org/wiki/Barometric_formula), in Javascript
+The [Barometric Function](http://en.wikipedia.org/wiki/Barometric_formula), in Go
 
-## Installation
+## Importing
 
-In browser:
+    import simplejson github.com/bitly/go-simplejson
 
-```html
-<script src="air.js"></script>
-```
+## Documentation
 
-## Usage
-
-```javascript
-var pressureAtOneKm = air.pressure(1000);
-
-var densityAtTwoKms = air.density(2000);
+Visit the docs on [gopkgdoc](http://godoc.org/github.com/amerine/go-barometric)
